@@ -13,6 +13,8 @@ int main()
 {
     // it saves
 	  int ch;
+	  
+	  // this is array of tasks
     string task[20];
     int flag = 0;
 	  while(true)
